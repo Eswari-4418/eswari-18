@@ -1,7 +1,7 @@
 public class hello
 {
-      public static viod main string[] args)
+      public static viod main (String[] args)
      {
-          system.out.println("hi")
+          system.out.print("hi")
     }
 }
